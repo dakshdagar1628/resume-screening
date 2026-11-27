@@ -10,3 +10,5 @@ JD with no known skills,"No crash, scores near 0",top score 0.0,PASS
 Data JD ranks data-profile resume first,Odd resume number (data profile),resume 1,PASS
 Bias test: change name and email only,Same score,58.9 vs 58.9,PASS
 Bad file inside a batch,"Bad file skipped, good file ranked",1 ranked,PASS
+Score consistency (run twice),Identical scores and order,identical,PASS
+Sort low to high,Scores in ascending order,ok,PASS
