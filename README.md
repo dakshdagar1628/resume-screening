@@ -53,7 +53,6 @@ name and email leaves the score unchanged), a bad file inside a batch, score con
 This tool assists recruiters. It never auto-rejects or auto-hires anyone.
  
 ## Screenshots
-![Ranking](screenshots/dashboard_ranking.png)
 ![Candidate detail](screenshots/candidate_detail.png)
 ![Test report](screenshots/test_report.png)
  
