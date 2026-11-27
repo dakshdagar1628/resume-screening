@@ -1,0 +1,6 @@
+pdfplumber
+python-docx
+scikit-learn
+pandas
+ipywidgets
+reportlab==4.2.5
