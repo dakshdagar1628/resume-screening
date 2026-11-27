@@ -1,0 +1,12 @@
+test,expected,actual,result
+Parse DOCX resume,"No error, skills found",14 skills,PASS
+Parse PDF resume,"No error, skills found",12 skills,PASS
+Unsupported file type (.txt),Clear error containing 'Unsupported',Unsupported file type '.txt'. Only PDF and DOCX are allowed.,PASS
+Empty DOCX,Clear error containing 'No text found',No text found (file is empty or a scanned image).,PASS
+Corrupted PDF,Clear error containing 'Could not read',Could not read file (corrupted or unreadable): No /Root obje,PASS
+File not found,Clear error containing 'File not found',File not found: sample_data/missing.pdf,PASS
+Resume with missing certifications,"'Not found', no crash",Not found,PASS
+JD with no known skills,"No crash, scores near 0",top score 0.0,PASS
+Data JD ranks data-profile resume first,Odd resume number (data profile),resume 1,PASS
+Bias test: change name and email only,Same score,58.9 vs 58.9,PASS
+Bad file inside a batch,"Bad file skipped, good file ranked",1 ranked,PASS

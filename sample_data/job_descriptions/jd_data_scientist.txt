@@ -1,0 +1,6 @@
+Data Scientist - Job Description
+We are looking for a Data Scientist with strong skills in Python, SQL, Pandas, NumPy and Machine Learning.
+Experience with Scikit-learn, TensorFlow, Data Visualization, Statistics and NLP is required.
+Knowledge of Power BI or Tableau, Git and Jupyter Notebook is a plus.
+Candidates should have a Bachelor's degree in Computer Science or related field and 1+ years of experience.
+Strong communication and problem solving skills are expected.

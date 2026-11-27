@@ -1,0 +1,6 @@
+Full Stack Web Developer - Job Description
+We are hiring a Full Stack Developer skilled in JavaScript, React, Node.js, HTML, CSS and REST APIs.
+Experience with MongoDB, SQL, Git, Docker and AWS is required.
+Knowledge of TypeScript, Express, Agile and CI/CD is a plus.
+Candidates should have a Bachelor's degree in Computer Science or related field and 1+ years of experience.
+Good teamwork and problem solving skills are expected.
