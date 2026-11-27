@@ -3,4 +3,5 @@ python-docx
 scikit-learn
 pandas
 ipywidgets
+streamlit
 reportlab==4.2.5
